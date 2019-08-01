@@ -7,3 +7,4 @@ urlpatterns = [
     path("", include("asset_manager.urls")),
     path('admin/', admin.site.urls),
 ]
+
